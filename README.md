@@ -1,50 +1,78 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+devtengry;Flutter+Developer+Intern+%7C+Computer+Programming+Student;Based+in+T%C3%BCrkiye+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+devtengry;Flutter+Developer+Intern+%40Piton+Technology;Computer+Programming+Student+%40Bandırma+17+Eylül" alt="Typing SVG" />
 </div>
 
 ---
 
-### 📌 Current Focus
-- 🏢 **Flutter Intern** @[Company Name] - Product Development Team
-- 🎓 **Computer Programming Student** @[University Name] (GPA: X.XX/4.00)
-- 📱 Mobile App Development with **Flutter & Dart**
-- 🔄 Implementing **Clean Architecture** patterns
-- 🤝 Collaborating on **team projects** with Git
+### 🏢 Professional Experience
+**Flutter Developer Intern** @[Piton Technology](https://piton.com.tr)  
+*(2024 - Present)*  
+- Developing production-ready mobile applications with Flutter
+- Implementing state management solutions (Riverpod/Bloc)
+- Integrating RESTful APIs using Dio
+- Participating in code reviews and agile processes
 
 ---
 
-### 🛠 Technical Toolkit
-#### Core Development
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-#### Programming Fundamentals
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-#### Development Tools
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🎓 Education
+**Bandırma 17 Eylül University**  
+Computer Programming (GPA: 3.42/4.00)  
+*(2023 - Expected 2025)*  
+- Relevant Coursework:  
+  - Mobile Application Development (Flutter)
+  - Object-Oriented Programming (Java)
+  - Database Systems (SQL/NoSQL)
+  - Web Technologies
+  - Software Engineering Principles
 
 ---
 
-### 📚 Academic Projects
-#### Mobile Development Course
-- 📊 Developed **BMI Calculator** with Flutter (BLoC Pattern)
-- 🗓 Created **Event Planner** app with Firebase Integration
-- ✅ Implemented **Unit Tests** for core functionalities
+### 🛠 Technical Skills
+#### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-#### Software Engineering Principles
-- 🧩 **OOP** implementations in Java
-- 🔗 **Database Design** with SQLite/MySQL
-- 📝 Technical documentation writing
+#### Backend & APIs
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat-square&logo=postman&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-663399?style=flat-square&logo=dart&logoColor=white)
+
+#### State Management
+![Riverpod](https://img.shields.io/badge/Riverpod-4BC0F5?style=flat-square&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-5849BE?style=flat-square&logo=bloc&logoColor=white)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📈 Development Activity
+### � Featured Projects
+
+#### 📚 Book Shopping App (2024)
+[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devtengry/product_catalog_project)
+- E-commerce app with product catalog
+- JWT authentication flow
+- Riverpod state management
+- API integration with Dio
+
+#### ⛅ Weather App (2024)
+[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devtengry/weather_app)
+- Real-time weather forecasts
+- Location-based services
+- Clean architecture implementation
+- OpenWeatherMap API integration
+
+#### 🔧 Maintifix (2024)
+[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devtengry/maintifix)
+- Maintenance tracking application
+- Firebase backend integration
+- Custom UI components
+- Form validation and data management
+
+---
+
+### 📈 GitHub Stats
 <div align="center">
   <a href="https://github.com/devtengry">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devtengry&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" />
@@ -54,7 +82,7 @@
 
 ---
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devtengry)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devtengry)
