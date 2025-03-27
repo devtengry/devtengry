@@ -9,7 +9,6 @@
 - 🎓 Studying **Computer Programming** (GPA: 3.42/4.00)
 - 🌱 Learning **advanced Flutter patterns** and **clean architecture**
 - 🔭 Working on **API integrations** and **state management**
-- ⚡ Fun fact: **Linux enthusiast** and **open-source contributor**
 
 ---
 
