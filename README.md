@@ -5,8 +5,7 @@
 ---
 
 ### 👨💻 About Me
-- 🏢 Currently interning as **Flutter Developer** at Piton Technology
-- 🎓 Studying **Computer Programming** (GPA: 3.42/4.00)
+- 🎓 Studying **Computer Programming** (GPA: 3.56/4.00)
 - 🌱 Learning **advanced Flutter patterns** and **clean architecture**
 - 🔭 Working on **API integrations** and **state management**
 
